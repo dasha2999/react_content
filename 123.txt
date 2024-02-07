@@ -1,0 +1,10 @@
+One-way data flow
+Умные и глупые компоненты
+JSX
+state
+props
+методы жизненного цикла в классовых компонентах
+VirtualDOM
+reconciliation react
+
+two way binding
